@@ -1,5 +1,5 @@
 # python-beinner-learning
-# This repository records my Python learning process as a beginner.
+This repository records my Python learning process as a beginner.
 - Start Date: 2025-Nov-13
 - Status: Learning through Codedex → CS50P
 
