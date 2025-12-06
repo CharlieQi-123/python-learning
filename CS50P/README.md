@@ -20,3 +20,6 @@ End Date: 2025-11-27
 - extensions.py - 'match/case'; 'text.endswith('')'; '|'
 - interpreter.py - '.split('')'; 'print(f'{n:.1f})'
 - meal.py - converting 12/24-hour time to decimal hours
+
+# Week 2
+Start Date: 2005-12-5
