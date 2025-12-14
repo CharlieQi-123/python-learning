@@ -7,7 +7,7 @@ End Date: 2025-11-23
 ## Problem Sets Completed
 - indoor.py - 'lower()'
 - playback.py - '.replace()'
-- faces.py - 'def main()'; 'replace()'
+- faces.py - 'def main()'; 'replace()'tion
 - einstein.py
 - tip.py: delete '$','%', '.replace('')'; 'float()'
 
@@ -23,3 +23,14 @@ End Date: 2025-11-27
 
 # Week 2
 Start Date: 2005-12-5
+End Date: 2025-12-14
+## Problem Sets Completed
+- camel.py - string.ascii_uppercase; for loops; join()
+- coke.py - -=; while loops include if
+- twttr.py - append()
+- plates.py - isalpha(); isalnum(); isdigit();s[i:];if not return False
+- nutrition.py - dict{}
+
+# Week 3
+Start Date: 2025-12-14
+End Date:
