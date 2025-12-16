@@ -33,4 +33,11 @@ End Date: 2025-12-14
 
 # Week 3
 Start Date: 2025-12-14
+End Date: 2025-12-15
+## Problem Sets Completed
+- fuel.py - while True; break; try; except ValueError; ZeroDivisionError; pass
+- taqueria.py - f'{:.2f}'; except EOFError
+- grocery.py - dict[key] += 1; sorted()
+- outdated.py - split(); raise ValueError; f'{n:02}'
+Start Date: 2025-12-14
 End Date:
