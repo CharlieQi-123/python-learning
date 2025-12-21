@@ -53,3 +53,17 @@ End Date: 2025-12-19
 - professor.py - while n < x; for i in range(n); if __name__ == '__main__'  main();
 - bitcoin.py - import requests; requests.get(); response.json(); requests.RequestException; f'{:,.4f}'
 - familiar with: while True loops; try,except Error; f'{}'; pip install; import
+
+# Week 5 Unit Test
+Start Date: 2025-12-20
+End Date: 2025-12-21
+## Lecture Note
+- pytest; pytest raises(); name: test_function; assert
+- test different aspects (default/ argument) (different conditions/ special solutions)
+- function should return sth
+- if __name__ == '__main__'
+## Problem Sets Completed
+- test_twttr.py - pip install pytest; assert; test(lower/upper/mix/empty/numbers_and_punctuation)
+- test_bank.py - test(empty/each if solutions)
+- test_plates.py
+- test_fuel.py - import pytest; with pytest.raises(Error):
